@@ -4,7 +4,7 @@ This project implements a simple **ReAct (Reason + Act) agent** using the Gemini
 
 ## Files
 
-- `ReAct_Agent_Assignment_2.ipynb` — complete Google Colab/Jupyter notebook.
+- `ReAct_Agent_Assignment_2_FIXED.ipynb` — complete Google Colab/Jupyter notebook.
 - `requirements.txt` — Python dependency.
 - `.gitignore` — ignores local secrets and generated files.
 
