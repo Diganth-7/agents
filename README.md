@@ -47,4 +47,4 @@ Then open `ReAct_Agent_Assignment_2.ipynb` and run its cells. When prompted, ent
 
 ## Notes
 
-The notebook uses Google's `google-genai` SDK and the `gemini-flash-latest` model alias. Model availability depends on the Gemini API account and may change. If needed, change `MODEL_NAME` to a function-calling-capable model available to your account.
+The notebook uses Google's `google-genai` SDK and the `gemini-3.8-flash` model alias. Model availability depends on the Gemini API account and may change. If needed, change `MODEL_NAME` to a function-calling-capable model available to your account.
